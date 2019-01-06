@@ -9,7 +9,9 @@ public class AEntrance : AHotBase
 {
     protected override void InitComponents()
     {
-        LoadAnotherUI<UILogin>();
+        //LoadAnotherUI<UILogin>();
+        //LoadAnotherUI<UITrain>();
+        LoadAnotherClass("UITrain", "UITrain.prefab");
     }
 
 }
