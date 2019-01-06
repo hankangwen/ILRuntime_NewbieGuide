@@ -1,0 +1,3 @@
+resources=http://www.kerven.com.cn:50339/hotgames/
+useab=1
+preloads=firstui,UITrain,dll/
