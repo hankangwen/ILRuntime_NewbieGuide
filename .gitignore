@@ -4,6 +4,14 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+AHotGames/.vs/*
+AHotGames/AHotGames/obj/*
+UHotGames/Library/*
+UHotGames/obj/*
+UHotGames/Temp/*
+UHotGames/Release/*
+UHotGames/ab1/*
+UHotGames/RemoteResources/*
 
 # Visual Studio cache directory
 .vs/
