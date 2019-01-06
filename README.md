@@ -22,5 +22,7 @@
   由于README.md不能放入图片，所以我把入门教程写在wiki里边了。
   
   ILRuntime入门教程：https://github.com/getker/ILRuntime_NewbieGuide/wiki
+  
+  unity版本是2018.2.16f1, vs版本是2017
 
 ==>最新代码请切develop分支，稳定代码请切master分支（虽然很可能就是一样的）。
